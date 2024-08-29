@@ -1,11 +1,11 @@
 {
-  "version": "v0.9.4",
-  "notes": "- Minor fixes",
-  "pub_date": "2024-08-29T16:05:00Z",
+  "version": "v0.9.5",
+  "notes": "- Shortcut Editor UI Upgrade\n- VisionOS Dialog",
+  "pub_date": "2024-08-29T20:20:00Z",
   "platforms": {
     "macos-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWk1CRS8zQVFPcmFHb2dEeTFLUmdEOG1kVDU5WGJINnpaYnBpdE5TUXFIUGtXYVQxR3BuN0d2M1VCNlpDQXI4S3h6YVdZdCtDcGNwbnZTSGdwN1lwK2xmS1JHNVRKK0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI0OTQwMjcwCWZpbGU6Q2xpcEZvcmdlLmFwcC50YXIuZ3oKYWJGWjBlYjl6R005Nk1ic0l1Yk8rRFNxT3lYcElxZkJTZ1pVVTJsdkFPbFY5V3o0MC9uUWRhTTRuRUJhM3czSXdMenVDcnVFWERuWEd1elBZN0ZyQXc9PQo=",
-      "url": "https://github.com/lucanisi/clipforge-release/releases/download/v0.9.4/ClipForge.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWk1CRS8zQVFPcllWZU1mbTVzVkczS1hCbTdLMHUzTzlsRERxaEtybFcvNC9MKzBnVUo2LzJicjNGeUMwOVAveDRXYzRHbTFmSkdPU0t3SGdQdTlTS1c0U1ZnWm9MNGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI0OTU1OTg1CWZpbGU6Q2xpcEZvcmdlLmFwcC50YXIuZ3oKUGtrT3Z0bERtVnh0V1hlK21XWE0vSENmSk0vUVloM3d0WGR6ZG8rV1M5eE1KWnUzWmxBelJpVmMvbEJoT2lQeThyWlg5dDBpdHlYbTB0bXdUa25QQWc9PQo=",
+      "url": "https://github.com/lucanisi/clipforge-release/releases/download/v0.9.5/ClipForge.app.tar.gz"
     }
   }
 }
