@@ -1,11 +1,11 @@
 {
-  "version": "v0.9.9",
-  "notes": "- New quick actions for file clips: Reveal in finder, paste file name, paste path\n- Better multiscreen support\n- Apple icons\n- Minor UI updates",
-  "pub_date": "2024-08-31T20:00:00Z",
+  "version": "v0.9.10",
+  "notes": "- Performance improvements\n- Tray icon theme fix\n- Highlight last pasted element feature available in Settings",
+  "pub_date": "2024-09-02T15:30:00Z",
   "platforms": {
     "macos-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWk1CRS8zQVFPcllqM2F6QjMvbUxiRWNEdEF1enpUSGdEVmRha2F5SjNDeGdrM0kyTWViRnIrM29ZYXpyWTRDbktJaEpDTDdZcGRhbWY2R2JIT1AvQ2xwdU1seVdxWVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI1MTI3NzAwCWZpbGU6Q2xpcEZvcmdlLmFwcC50YXIuZ3oKRkhPMGM5WkR1aXQ1dnBEdGZjcW9vZ3RJSUQvdk9YNnZwRk1YTDdTbEo4V3pkMHFFVnU3aktmbXlGTUNUSGVnc3VhRUhpYXZiYWttOXluTHoyRHVnQmc9PQo=",
-      "url": "https://github.com/lucanisi/clipforge-release/releases/download/v0.9.9/ClipForge.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWk1CRS8zQVFPclpBekJwTlFKaVV1bFVZQjJ4eTVDdmU1NlVDbVdDSU0vL3pmLzQ5UUsvMEpVcXd0MjF3MlFDdlkyd0l4RW5lTmNzNGMraVpSd1JaaEZBb1ZzdGJZaXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI1MjgzNzYyCWZpbGU6Q2xpcEZvcmdlLmFwcC50YXIuZ3oKRkZJdGVSaGQxWk11T3NQc1NCazZBamlTYUtBS1NSb051ZVpCelloWU9aNzgyZkQ3QmlWdUI4V0RSZzR5eUx1L2tWSDRTeUo3ZWhZTVB1cUNVNUR5Q1E9PQo=",
+      "url": "https://github.com/lucanisi/clipforge-release/releases/download/v0.9.10/ClipForge.app.tar.gz"
     }
   }
 }
