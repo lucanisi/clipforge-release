@@ -1,11 +1,11 @@
 {
-  "version": "v0.9.10",
-  "notes": "- Performance improvements\n- Tray icon theme fix\n- Highlight last pasted element feature available in Settings",
-  "pub_date": "2024-09-02T15:30:00Z",
+  "version": "v0.9.11",
+  "notes": "- Context menu improvements\n- Fixed common shortcuts in input fields\n- Better search highlighting\n- Performance improvements",
+  "pub_date": "2024-09-06T14:30:00Z",
   "platforms": {
     "macos-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWk1CRS8zQVFPclpBekJwTlFKaVV1bFVZQjJ4eTVDdmU1NlVDbVdDSU0vL3pmLzQ5UUsvMEpVcXd0MjF3MlFDdlkyd0l4RW5lTmNzNGMraVpSd1JaaEZBb1ZzdGJZaXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI1MjgzNzYyCWZpbGU6Q2xpcEZvcmdlLmFwcC50YXIuZ3oKRkZJdGVSaGQxWk11T3NQc1NCazZBamlTYUtBS1NSb051ZVpCelloWU9aNzgyZkQ3QmlWdUI4V0RSZzR5eUx1L2tWSDRTeUo3ZWhZTVB1cUNVNUR5Q1E9PQo=",
-      "url": "https://github.com/lucanisi/clipforge-release/releases/download/v0.9.10/ClipForge.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWk1CRS8zQVFPclltT3B1aUoxRlM3VFhUTFRTR1FaaElDMitSTTNXZGF4NE5YZGN3NndGcmhwcTBZc0FDZVlJK3pVNEQxQ0c0Y053OWlYY0xobjE3NTlyQXZkUkduQ1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI1NjI1NDkzCWZpbGU6Q2xpcEZvcmdlLmFwcC50YXIuZ3oKWFhNNExKclZjQ2lrSzZqUmpFcVVjQlZxQmVBZHoyNllvTFV4M2JnOVpKaXYwclNlSnU2ZVc4cm4rellkUU5iOEFtOGVNRVUyQ0ZTOGV1ZFdMdlEwRHc9PQo=",
+      "url": "https://github.com/lucanisi/clipforge-release/releases/download/v0.9.11/ClipForge.app.tar.gz"
     }
   }
 }
