@@ -1,11 +1,11 @@
 {
-  "version": "v0.9.12",
-  "notes": "- App Tour\n- System language detection for first installs\n- Autocheck for updates\n- Dialog UI improvements",
-  "pub_date": "2024-09-08T17:05:00Z",
+  "version": "v0.9.13",
+  "notes": "- Minor UI fixes\n- Performance improvements",
+  "pub_date": "2024-09-10T10:07:00Z",
   "platforms": {
     "macos-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWk1CRS8zQVFPcmJTVHhQOGxsSFlaYlVRdXRveU9PWlQ3U1FrUEsyZlpQRmJsZ3FDRGdkbkF1eVgwS0wwRE9rWmt1TnVuL1M4UzBUVDZ6S282Sjh0T28xWmlBWktSaXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI1ODA3MjI4CWZpbGU6Q2xpcEZvcmdlLmFwcC50YXIuZ3oKbXlzOFJmaHF2c2NjMkNkaWM4NTNwcFhjeWhReWRWaXJyODU5eFRxc3pqQ0V6d1VYNkE4MVBudVp6clFiVlZ0am4zUGdsOHl0d1J3ZDFwaCtMc2xQQ2c9PQo=",
-      "url": "https://github.com/lucanisi/clipforge-release/releases/download/v0.9.12/ClipForge.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWk1CRS8zQVFPclk0b0MzdDdoYzg1MkpkRjlqLyttMXJuMWdlOGN2VEUyMU8yS3hIVVlXN3k5cGlSYi9zQXRkeGtia3VsSHAzNHNRbWRZZE85d3NXeVV6dnJtS0x6UkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI1OTU1NTMyCWZpbGU6Q2xpcEZvcmdlLmFwcC50YXIuZ3oKVzZYbks2T3cvYmlJbk9CYnRNRCtWckZadnBWVVcwUEpGcFVhYUJuUGFkMWVxNXVHcG9KSlg3S25Bc0NLQ3NCWCtHTUxvdjAxTENFNmpzS2hseTRVQUE9PQo=",
+      "url": "https://github.com/lucanisi/clipforge-release/releases/download/v0.9.13/ClipForge.app.tar.gz"
     }
   }
 }
