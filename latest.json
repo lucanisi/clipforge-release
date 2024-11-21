@@ -1,11 +1,11 @@
 {
-  "version": "v0.9.13",
-  "notes": "- Minor UI fixes\n- Performance improvements",
-  "pub_date": "2024-09-10T10:07:00Z",
+  "version": "v0.9.18",
+  "notes": "- Performance improvements\n-Bug fixes",
+  "pub_date": "2024-11-21T10:50:00Z",
   "platforms": {
     "macos-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWk1CRS8zQVFPclk0b0MzdDdoYzg1MkpkRjlqLyttMXJuMWdlOGN2VEUyMU8yS3hIVVlXN3k5cGlSYi9zQXRkeGtia3VsSHAzNHNRbWRZZE85d3NXeVV6dnJtS0x6UkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI1OTU1NTMyCWZpbGU6Q2xpcEZvcmdlLmFwcC50YXIuZ3oKVzZYbks2T3cvYmlJbk9CYnRNRCtWckZadnBWVVcwUEpGcFVhYUJuUGFkMWVxNXVHcG9KSlg3S25Bc0NLQ3NCWCtHTUxvdjAxTENFNmpzS2hseTRVQUE9PQo=",
-      "url": "https://github.com/lucanisi/clipforge-release/releases/download/v0.9.13/ClipForge.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWk1CRS8zQVFPclExTjRGRnhPK1BkbGNEaTBOQnd6Wmk5TTVpQXJ4dkU2RkxJQm51OWVzWmlybFVRVUUyR1BHcDRKY3JKOHFUYS9tRkhXVVAwaTlUb3FydXQvTzJtY2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMyMTgyMTU5CWZpbGU6Q2xpcEZvcmdlLmFwcC50YXIuZ3oKUkpYSXlPMmFlTWdzSUUrYzVPbFhkMG1VUCs0LzRMM21salNyVnZLK2QrY3E0RTNuK09rc3NvWmNZTVpMeTR0WTJxNEdWTkZFVkhnem5hb2Jta3M4Q1E9PQo=",
+      "url": "https://github.com/lucanisi/clipforge-release/releases/download/v0.9.18/ClipForge.app.tar.gz"
     }
   }
 }
