@@ -6,6 +6,20 @@
     <description>ClipForge native (Swift) updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.1</title>
+      <description><![CDATA[UI refinements, liquid glass category bar, Sparkle in-app updates, and improved settings.]]></description>
+      <pubDate>Wed, 20 May 2026 10:29:58 +0000</pubDate>
+      <sparkle:version>101</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/lucanisi/clipforge-release/releases/download/v1.0.1/ClipForge-1.0.1.zip"
+        sparkle:os="macos"
+        length="2489770"
+        type="application/octet-stream"
+        sparkle:edSignature="7RGoi96DIE4kVMMErkvA2cdFb0aEcnBjOxhPIq82WTtoMMEgfJedBquPJe64Hfena9m/e+zmrHHqe/GfTJr8BA==" />
+    </item>
+    <item>
       <title>Version 1.0.0</title>
       <description><![CDATA[First native Swift release. Clipboard history and settings are preserved from the Tauri app on the same Mac.]]></description>
       <pubDate>Tue, 20 May 2026 12:00:00 +0000</pubDate>
