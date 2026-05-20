@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>ClipForge</title>
+    <link>https://github.com/lucanisi/clipforge-release</link>
+    <description>ClipForge native (Swift) updates</description>
+    <language>en</language>
+    <item>
+      <title>Version 1.0.0</title>
+      <description><![CDATA[First native Swift release. Clipboard history and settings are preserved from the Tauri app on the same Mac.]]></description>
+      <pubDate>Tue, 20 May 2026 12:00:00 +0000</pubDate>
+      <sparkle:version>100</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/lucanisi/clipforge-release/releases/download/v1.0.0/ClipForge-1.0.0.zip"
+        sparkle:os="macos"
+        length="2471852"
+        type="application/octet-stream"
+        sparkle:edSignature="UjwZGN/qqUI+it6UVb9Z69qxyi9B5Ad+1STz+XvpNr/va+BeJRde2COeKrNsDg9fw/ogGSrVr2jYNWNA3vi/DQ==" />
+    </item>
+  </channel>
+</rss>
