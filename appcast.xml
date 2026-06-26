@@ -6,6 +6,36 @@
     <description>ClipForge native (Swift) updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.4</title>
+      <description><![CDATA[Faster search with large histories, HTML clip search and previews, and fixes for category switching and search filtering.]]></description>
+      <pubDate>Fri, 26 Jun 2026 16:15:00 +0000</pubDate>
+      <sparkle:version>104</sparkle:version>
+      <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/lucanisi/clipforge-release/releases/download/v1.0.4/ClipForge-1.0.4.zip"
+        sparkle:os="macos"
+        length="2507818"
+        type="application/octet-stream"
+        sparkle:edSignature="mrwS6FFvFDr9vZsboHvUqsVAeobeLsTQFp1EJxe+WZk0lVXjW2sEFoNGKnihL89YqGaY2XfRvIRgOYw3C1WGAw==" />
+      <sparkle:deltas>
+        <enclosure
+          url="https://github.com/lucanisi/clipforge-release/releases/download/v1.0.4/ClipForge104-102.delta"
+          sparkle:deltaFrom="102"
+          sparkle:os="macos"
+          length="102018"
+          type="application/octet-stream"
+          sparkle:edSignature="MfY4sdQrS1frVXIpOSak1Y1NxQthYbTVJlZjZKc09//787jdtpPiYzRlSPMZR3tpcMxwe4Ex6PGuPxC28KflBA==" />
+        <enclosure
+          url="https://github.com/lucanisi/clipforge-release/releases/download/v1.0.4/ClipForge104-101.delta"
+          sparkle:deltaFrom="101"
+          sparkle:os="macos"
+          length="115222"
+          type="application/octet-stream"
+          sparkle:edSignature="Vj3cDfMRtBynVVIiP04vTAl1CDVoow6w3MCbN6EAoCaZUnR67u+RMyRZFTgWKmHWRMoKCoxsm4f6+LQXLcP+Ag==" />
+      </sparkle:deltas>
+    </item>
+    <item>
       <title>Version 1.0.2</title>
       <description><![CDATA[Search now scrolls clip previews to show matches beyond the visible text window.]]></description>
       <pubDate>Tue, 26 May 2026 12:38:48 +0000</pubDate>
