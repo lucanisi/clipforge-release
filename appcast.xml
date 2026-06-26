@@ -6,6 +6,59 @@
     <description>ClipForge native (Swift) updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.3</title>
+      <description><![CDATA[Faster search with large clip histories. HTML clips are now searchable and show plain-text previews. Search excerpts scroll to matches in long text.]]></description>
+      <pubDate>Fri, 26 Jun 2026 16:04:00 +0000</pubDate>
+      <sparkle:version>103</sparkle:version>
+      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/lucanisi/clipforge-release/releases/download/v1.0.3/ClipForge-1.0.3.zip"
+        sparkle:os="macos"
+        length="2510252"
+        type="application/octet-stream"
+        sparkle:edSignature="x2dSOTE5IA0qKJ6vyGi7RR4hfLYNzJi4iLTgXnGnRdcFABHcbvd/3NKDu+BZsvBDr1M7fjfU0AzjfCWM16RzAA==" />
+      <sparkle:deltas>
+        <enclosure
+          url="https://github.com/lucanisi/clipforge-release/releases/download/v1.0.3/ClipForge103-102.delta"
+          sparkle:deltaFrom="102"
+          sparkle:os="macos"
+          length="105582"
+          type="application/octet-stream"
+          sparkle:edSignature="H7EdgFME5LoUrtF8qzfNcYKipxWy9VXvOAu9XxeWUHYhMjByMFGv2cKj1fyhnx5OXx7KpjP5j21XsSXgWEKHAA==" />
+        <enclosure
+          url="https://github.com/lucanisi/clipforge-release/releases/download/v1.0.3/ClipForge103-101.delta"
+          sparkle:deltaFrom="101"
+          sparkle:os="macos"
+          length="120978"
+          type="application/octet-stream"
+          sparkle:edSignature="Q5NtkbvqBZefPC1ZQ2/MwX1TjArNnNAmtViOhFlepg02vuhdICE9hT9kJqkb2KzZKWRmpLyGLyddNb0YlsmvBA==" />
+      </sparkle:deltas>
+    </item>
+    <item>
+      <title>Version 1.0.2</title>
+      <description><![CDATA[Search now scrolls clip previews to show matches beyond the visible text window.]]></description>
+      <pubDate>Tue, 26 May 2026 12:38:48 +0000</pubDate>
+      <sparkle:version>102</sparkle:version>
+      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/lucanisi/clipforge-release/releases/download/v1.0.2/ClipForge-1.0.2.zip"
+        sparkle:os="macos"
+        length="2490272"
+        type="application/octet-stream"
+        sparkle:edSignature="gyHfmOzJlg41hrtJC4nc+it8zG09aiMvUp4rNVRbwcZVefCHztlUGY1cJbDhKKVaD2xUcZaEiQeaLsrQ8Q4LAA==" />
+      <sparkle:deltas>
+        <enclosure
+          url="https://github.com/lucanisi/clipforge-release/releases/download/v1.0.2/ClipForge102-101.delta"
+          sparkle:deltaFrom="101"
+          sparkle:os="macos"
+          length="48162"
+          type="application/octet-stream"
+          sparkle:edSignature="TgGylzSJmhWCDuRLvrHwCgZGTcLASNneEwlgs1vSuc0VzXWpw7RL6EcZDfVcjBMvL1JqfSnEYmwmOjILg1iVCA==" />
+      </sparkle:deltas>
+    </item>
+    <item>
       <title>Version 1.0.1</title>
       <description><![CDATA[UI refinements, liquid glass category bar, Sparkle in-app updates, and improved settings.]]></description>
       <pubDate>Wed, 20 May 2026 10:29:58 +0000</pubDate>
